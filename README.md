@@ -1,1 +1,2 @@
-### Creating a unique Barcode using tc-lib-barcode # Barcode-solution
+### Creating a unique Barcode using `tc-lib-barcode`
+### Barcode-solution

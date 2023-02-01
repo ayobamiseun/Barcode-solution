@@ -1,2 +1,3 @@
 ### Creating a unique Barcode using `tc-lib-barcode`
-### Barcode-solution
+> Barcode For Item
+> Product Details and Unique number Generation
